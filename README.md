@@ -1,11 +1,19 @@
 <h1 align="center">Dataset de um conjunto de placas brasileiras 🛑</h1>
 
+<p align="center">
+  <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-classes-das-placas-presentes-no-dataset">Classes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exemplo-de-placas">Exemplos</a>
+</p>
+
+## 📋 Descrição
+
 <p align="justify">
   Dataset construido para utilização no Trabalho de Conclusão de Curso intulado como Classificação de Placas de Trânsito Utilizando Redes Neurais Convolucionais, contendo um total de 1100 imagens nas quais foram divididas em 10 classes de placas, sendo então 110 imagens para cada classe. As classes contidas no dataset são listadas abaixo. 
 </p>
 
 
-## Classes das placas presentes no dataset
+## ⚠ Classes das placas presentes no dataset
 
 - Estacionamento regulamentado
 - Parada obrigatória
@@ -19,7 +27,7 @@
 - Siga em frente
 
 
-## Exemplo de placas
+## 🚦 Exemplo de placas
 
 ![resumo_placas](https://user-images.githubusercontent.com/56078026/145513107-68b6edcc-e993-4f2b-8562-9bd7d9b70987.png)
 
